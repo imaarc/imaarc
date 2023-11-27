@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imaarc
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Laravel
+- 🌱 ASP.NET/JAVA/HTML/CSS/BOOTSTRAP/MYSQL/SQL STUDIO/JAVASCRIPT/JQUERY
 - 📫 You can reach me at mojintroliso@gmail.com 
 
 <!---
